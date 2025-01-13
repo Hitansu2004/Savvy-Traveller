@@ -13,18 +13,13 @@ function Hero() {
           <span
             style={{
               color: "#fde047",
-              // textDecoration: "underline",
               textDecorationThickness: "thin",
-              // display: "inline-block",
             }}
           >
             Itineraries
           </span>{" "}
           <span
             style={{
-              // color: "#fde047",
-              // textDecoration: "underline",
-              // textDecorationThickness: "thin",
               display: "inline-block",
               marginTop: "1rem",
             }}
@@ -38,7 +33,7 @@ function Hero() {
         itineraries tailored to your interests and budget.
       </p>
       <div className="flex justify-center mt-9">
-        <a href="https://smart-travel-wheat.vercel.app" className="text-current">
+        <a href="https://Savvy-Traveller-xyz123.vercel.app/" className="text-current"> 
           <button
             variant="outline"
             className="text-black bg-white rounded-none px-4 py-2 border border-black"
